@@ -8,9 +8,14 @@
     "destination": "doc/out",
     "verbose": true,
     "template": "node_modules/docdash",
-    "readme": "jsdoc-overview.md"
+    "readme": "jsdoc-overview.md",
+    "recurse": true
   },
   "plugins": [
     "plugins/markdown"
-  ]
+  ],
+  "templates": {
+    "cleverLinks": true,
+    "monospaceLinks": false
+  }
 }

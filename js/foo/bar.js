@@ -1,0 +1,5 @@
+/**
+ * Does something.
+ */
+function doThis() {
+}
