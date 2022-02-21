@@ -1,8 +1,13 @@
 {
-  "name": "",
-  "description": "",
-  "version": "0.1.0",
-  "devDependencies": {
-    "jsdoc": "^3.6.10"
-  }
+    "name": "",
+    "description": "",
+    "version": "0.1.0",
+    "scripts": {
+        "doc": "jsdoc -c doc/config.json",
+        "sh": "bash"
+    },
+    "devDependencies": {
+        "docdash": "^1.2.0",
+        "jsdoc": "^3.6.10"
+    }
 }
