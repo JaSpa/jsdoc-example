@@ -2,7 +2,7 @@
 
 [**JSDoc Zusammenschrift**](https://github.com/JaSpa/jsdoc-example/blob/main/jsdoc-overview.md)
 
-Nach dem Clone:
+Um das Beispielprojekt auszuprobieren:
 
 ```sh
 npm install     # JSDoc & Template installieren
