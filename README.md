@@ -8,3 +8,4 @@ Um das Beispielprojekt auszuprobieren:
 npm install     # JSDoc & Template installieren
 npm run doc     # Dokumentation erstellen
 ```
+NEUNEUNEUNEU
